@@ -1,5 +1,5 @@
 {
-  "name": "use-dark-mode",
+  "name": "@transitive-bullshit/use-dark-mode",
   "publishConfig": {
     "tag": "latest"
   },
