@@ -1,4 +1,4 @@
-declare module 'use-dark-mode' {
+declare module '@fisch0920/use-dark-mode' {
   /**
    * A config object allowing you to specify certain aspects of `useDarkMode`
    */
