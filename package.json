@@ -1,7 +1,8 @@
 {
   "name": "@transitive-bullshit/use-dark-mode",
   "publishConfig": {
-    "tag": "latest"
+    "tag": "latest",
+    "access": "public"
   },
   "version": "2.3.2",
   "description": "A custom React Hook to help you implement a \"dark mode\" component.",
