@@ -1,11 +1,11 @@
 # @fisch0920/use-dark-mode
 
+> NOTE: this is a fork of [use-dark-mode](https://github.com/donavon/use-dark-mode) by [donovan](https://github.com/donavon) which adds some much needed maintenance support for React 17 and 18.
+
 A custom [React Hook](https://reactjs.org/docs/hooks-overview.html) to help you implement a "dark mode" component for your application.
 The user setting persists to `localStorage`.
 
-❤️ it? ⭐️ it on [GitHub](https://github.com/donavon/use-dark-mode/stargazers)
-or [Tweet](https://twitter.com/intent/tweet?text=Check%20out%20the%20useDarkMode%20custom%20React%20Hook%20that%20simplifies%20adding%20a%20persistent%20dark%20mode%20setting%20to%20your%20app.&url=https%3A%2F%2Fgithub.com%2Fdonavon%2Fuse-dark-mode&via=donavon&hashtags=reactjs,hooks,darkmode)
-about it.
+❤️ it? ⭐️ it on [GitHub](https://github.com/transitive-bullshit/use-dark-mode/stargazers)
 
 [![npm version](https://badge.fury.io/js/@fisch0920/use-dark-mode.svg)](https://badge.fury.io/js/@fisch0920/use-dark-mode) [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 
@@ -132,7 +132,7 @@ However, the user will see a flash of light mode before the app is spun up
 and `useDarkMode` is called.
 
 To prevent this, I've included some vanilla JavaScript that you can insert in your
-`index.html` just after the `<body>` tag. It is in a file named [noflash.js.txt](https://github.com/donavon/use-dark-mode/blob/develop/noflash.js.txt).
+`index.html` just after the `<body>` tag. It is in a file named [noflash.js.txt](https://github.com/transitive-bullshit/use-dark-mode/blob/develop/noflash.js.txt).
 You can either insert the contents of this file in a `<script>` tag or automate the
 step in your build process.
 

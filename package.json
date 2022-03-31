@@ -4,7 +4,7 @@
     "tag": "latest",
     "access": "public"
   },
-  "version": "2.3.2",
+  "version": "2.4.0",
   "description": "A custom React Hook to help you implement a \"dark mode\" component.",
   "main": "dist/use-dark-mode.js",
   "umd:main": "dist/use-dark-mode.umd.js",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/donavon/use-dark-mode.git"
+    "url": "https://github.com/transitive-bullshit/use-dark-mode.git"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
