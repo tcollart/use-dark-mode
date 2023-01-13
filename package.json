@@ -1,5 +1,5 @@
 {
-  "name": "@fisch0920/use-dark-mode",
+  "name": "@tcollart/use-dark-mode",
   "publishConfig": {
     "tag": "latest",
     "access": "public"
